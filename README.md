@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Marc Vicente Cazallas 👋
 
-<!--
-**MarcVic99/MarcVic99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on gameplay, mobile apps and web development.
 
-Here are some ideas to get you started:
+## 🚀 Portfolio
+[marc-portfolio.vercel.app](TU_URL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Featured Projects
+
+### Light Keeper
+Award-winning Unity game developed at ENTI-UB.  
+[Play on itch.io](https://nucelarwizards.itch.io/light-keeper)
+
+### Drifting Away
+Unreal Engine project nominated at ENTI-UB Awards.  
+[View on itch.io](https://ericloo.itch.io/drifting-away)
+
+### FreeXpace: Waves Survival
+Unity mobile game developed during Free2Play Campus.  
+[View on Google Play](https://play.google.com/store/apps/details?id=com.PlayerToPlayer.FreeXpaceWavesRift&hl=en_GB)
+
+### Sales Tracker App
+Flutter app for stock, sales, receipts and business analytics.
+
+### Difriho Website
+Corporate website co-developed from scratch. Full backend ownership with PHP and MySQL.
+
+## 🛠 Tech Stack
+Unity · Unreal Engine · Flutter · Dart · C# · C++ · PHP · MySQL · JavaScript · Bootstrap · Git
+
+## 📫 Contact
+- Portfolio: TU_URL
+- LinkedIn: https://www.linkedin.com/in/marc-vicente-cazallas-b33249158/

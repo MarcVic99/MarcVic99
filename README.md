@@ -3,7 +3,7 @@
 Junior Software Developer focused on gameplay, mobile apps and web development.
 
 ## 🚀 Portfolio
-[marc-portfolio.vercel.app](TU_URL)
+[marc-portfolio.vercel.app]((https://marc-portfolio-taupe.vercel.app/))
 
 ## 🧩 Featured Projects
 

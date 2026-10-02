@@ -21,10 +21,11 @@ Unity mobile game developed during Free2Play Campus.
 
 ### Sales Tracker App *Profitly*
 Flutter app for stock, sales, receipts and business analytics.
-[View on Github]
+[View on Github](https://github.com/MarcVic99/Profitly)
 
 ### Difriho Website
 Corporate website co-developed from scratch. Full backend ownership with PHP and MySQL.
+
 [View on Website](https://difriho.com/)
 
 ## 🛠 Tech Stack

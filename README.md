@@ -19,15 +19,17 @@ Unreal Engine project nominated at ENTI-UB Awards.
 Unity mobile game developed during Free2Play Campus.  
 [View on Google Play](https://play.google.com/store/apps/details?id=com.PlayerToPlayer.FreeXpaceWavesRift&hl=en_GB)
 
-### Sales Tracker App
+### Sales Tracker App *Profitly*
 Flutter app for stock, sales, receipts and business analytics.
+[View on Github]
 
 ### Difriho Website
 Corporate website co-developed from scratch. Full backend ownership with PHP and MySQL.
+[View on Website](https://difriho.com/)
 
 ## 🛠 Tech Stack
 Unity · Unreal Engine · Flutter · Dart · C# · C++ · PHP · MySQL · JavaScript · Bootstrap · Git
 
 ## 📫 Contact
-- Portfolio: TU_URL
+- Portfolio: marc-portfolio.vercel.app
 - LinkedIn: https://www.linkedin.com/in/marc-vicente-cazallas-b33249158/
